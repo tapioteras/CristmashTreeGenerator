@@ -4,7 +4,7 @@
  authors:
    - tapioteras
  resources:
-   - https://rawgit.com/tapioteras/CristmashTreeGenerator/master/generator/generator.js
-   - https://rawgit.com/tapioteras/CristmashTreeGenerator/master/generator/generator.css
+   - https://cdn.jsdelivr.net/gh/tapioteras/CristmashTreeGenerator/generator/generator.js
+   - https://cdn.jsdelivr.net/gh/tapioteras/CristmashTreeGenerator/generator/generator.css
  normalize_css: no
  ...
